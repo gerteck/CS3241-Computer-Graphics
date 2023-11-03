@@ -1,10 +1,3 @@
-//============================================================
-// STUDENT NAME: CHAN GER TECK
-// NUS User ID.: E0957880
-// COMMENTS TO GRADER: nil
-//
-//============================================================
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>

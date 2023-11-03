@@ -1,10 +1,3 @@
-//============================================================
-// STUDENT NAME: CHAN GER TECK
-// NUS User ID.: E0957880 / A0252292H
-// COMMENTS TO GRADER: Have a nice day! HAND
-//
-// ============================================================
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
