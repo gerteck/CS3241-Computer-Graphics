@@ -1,5 +1,5 @@
 # CS3241-Computer-Graphics
-OpenGL Programs made during the duration of the course
+OpenGL Programs made during the duration of the course. These are my submissions for AY23/24 CS3241, if you are a current student, it would be best not to look to avoid accidental plagiarism. For notes for the course, do check out this senior's cheatsheet [here](https://github.com/weiseng18/nus-cheatsheets/tree/master/CS3241) which I found to be very useful and comprehensive, and also saw many other students using in the exam hall!
 
 ### Program 1: Basic OpenGL, input & interaction, and animation.
 
